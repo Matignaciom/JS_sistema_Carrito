@@ -25,3 +25,7 @@ El proyecto "Carrito de Compras" es una aplicación web que permite a los usuari
 - HTML5
 - CSS3 (Bootstrap)
 - JavaScript (Vanilla)
+
+## Agradecimientos
+
+Hecho con ❤️ por Matias Ignacio - https://github.com/Matignaciom
